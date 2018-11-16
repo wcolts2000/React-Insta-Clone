@@ -1,7 +1,7 @@
 {
   "main.css": "/React-Insta-Clone/static/css/main.16ef3f52.chunk.css",
-  "main.js": "/React-Insta-Clone/static/js/main.01abd906.chunk.js",
-  "main.js.map": "/React-Insta-Clone/static/js/main.01abd906.chunk.js.map",
+  "main.js": "/React-Insta-Clone/static/js/main.414119c3.chunk.js",
+  "main.js.map": "/React-Insta-Clone/static/js/main.414119c3.chunk.js.map",
   "static/js/1.577544a7.chunk.js": "/React-Insta-Clone/static/js/1.577544a7.chunk.js",
   "static/js/1.577544a7.chunk.js.map": "/React-Insta-Clone/static/js/1.577544a7.chunk.js.map",
   "runtime~main.js": "/React-Insta-Clone/static/js/runtime~main.8bea3be1.js",
@@ -9,6 +9,6 @@
   "static/media/instagramScript.svg": "/React-Insta-Clone/static/media/instagramScript.4a1d6d5d.svg",
   "static/css/main.16ef3f52.chunk.css.map": "/React-Insta-Clone/static/css/main.16ef3f52.chunk.css.map",
   "index.html": "/React-Insta-Clone/index.html",
-  "precache-manifest.c889f32a22d7af4cffdcb6adfb8428a5.js": "/React-Insta-Clone/precache-manifest.c889f32a22d7af4cffdcb6adfb8428a5.js",
+  "precache-manifest.063c84bec4404383a6cfb9336be9800c.js": "/React-Insta-Clone/precache-manifest.063c84bec4404383a6cfb9336be9800c.js",
   "service-worker.js": "/React-Insta-Clone/service-worker.js"
 }
